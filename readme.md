@@ -1,3 +1,3 @@
 # Marker
 
-Marker is under development. Stay tuned.
+Marker is no longer in development. 
